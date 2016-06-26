@@ -1,0 +1,14 @@
+a {
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: grey;
+  color: black;
+}
+
+a.active {
+  background-color: black;
+  color: grey;
+}
